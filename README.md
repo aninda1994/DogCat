@@ -22,7 +22,7 @@ This is a Flask web app which classify between dog and cat image
 What to do when you are at home due to this pandemic situation? I made this project because I wanted to get more hands on expierence on Machine learning and Data Science
 
 ## Installation
-The Code is written in Python 3.6.9. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 ```bash
 pip install -r requirements.txt
 ```
